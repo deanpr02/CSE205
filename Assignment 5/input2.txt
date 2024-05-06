@@ -1,0 +1,9 @@
+A
+FighterJet,Mvl-34,85,40.7,68.2
+A
+Bomber,B-22,200,86.9,propeller
+L
+?
+A
+Bomber,C-12,100,56.9,Jet
+Q

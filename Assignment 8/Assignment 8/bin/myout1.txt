@@ -1,0 +1,125 @@
+Welcome to HotelAdvisor! 
+Find or post reviews for your favorite (and not so favorite) hotels.
+Choice		Action
+------		------
+A		Add a review
+D		Search for a hotel
+E		Search for a hotel type
+L		List all reviews
+N		Sort by stars
+P		Sort by hotel type
+Q		Quit
+R		Remove a review
+U		Add personal review to a local file
+V		Retrieve personal review from a local file
+W		Save reviews to a file
+X		Upload reviews from a file
+T		(admin) reset database
+?		Display Help
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+
+Taj hotel
+****		$$
+Resort Hotel
+Top Feature:	Mountain Views
+Location: Bali Junction
+Review:	Very good views but the customer service can be improved.
+
+Dubai Continental hotel
+*****		$$$$
+All-suites Hotel
+Top Feature:	Food
+Location: Dubai City Center
+Review:	Great service, awesome food.
+
+Meridian Stay hotel
+***		$$$
+Casino Hotel
+Top Feature:	Food
+Location: Pittsburgh Down Town
+Review:	Great for entertainment, in a bit crowded area though.
+
+Holiday Land hotel
+*****		$$$
+Resort Hotel
+Top Feature:	City Views
+Location: 1442 Paris Rd.
+Review:	Great for family holidays!
+
+
+
+What action would you like to perform?
+Please enter the Hotel name to search:
+Please enter the hotel's location':
+Hotel found. Here's the review:
+Very good views but the customer service can be improved.
+
+What action would you like to perform?
+Please enter the Hotel name to search:
+Please enter the hotel's location':
+Hotel not found. Please try again
+
+What action would you like to perform?
+Please enter the hotel type to search:
+2 Hotels matching Resort type were found:
+Taj hotel
+****		$$
+Resort Hotel
+Top Feature:	Mountain Views
+Location: Bali Junction
+Review:	Very good views but the customer service can be improved.
+
+Holiday Land hotel
+*****		$$$
+Resort Hotel
+Top Feature:	City Views
+Location: 1442 Paris Rd.
+Review:	Great for family holidays!
+
+
+What action would you like to perform?

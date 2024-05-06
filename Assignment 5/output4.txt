@@ -1,0 +1,51 @@
+Welcome to the aircraft stats simulator!
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Attack powers computed
+
+What action would you like to perform?
+Please enter a minimum attack power you want to calculate:
+The number of aircrafts with 200 attack powers or more is: 0
+
+What action would you like to perform?
+No aircrafts in the fleet yet.
+
+What action would you like to perform?
+Please enter a minimum attack power you want to calculate:
+The number of aircrafts with 300 attack powers or more is: 0
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Attack powers computed
+
+What action would you like to perform?

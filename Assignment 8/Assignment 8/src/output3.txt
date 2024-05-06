@@ -1,0 +1,229 @@
+Welcome to HotelAdvisor! 
+Find or post reviews for your favorite (and not so favorite) hotels.
+Choice		Action
+------		------
+A		Add a review
+D		Search for a hotel
+E		Search for a hotel type
+L		List all reviews
+N		Sort by stars
+P		Sort by hotel type
+Q		Quit
+R		Remove a review
+U		Add personal review to a local file
+V		Retrieve personal review from a local file
+W		Save reviews to a file
+X		Upload reviews from a file
+T		(admin) reset database
+?		Display Help
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+Please enter the hotel information:
+Enter the hotel name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the hotel type:
+Enter the location:
+Enter the hotel's top feature
+Hotel added
+
+What action would you like to perform?
+
+Taj hotel
+****		$$
+Resort Hotel
+Top Feature:	Mountain Views
+Location: Bali Junction
+Review:	Very good views but the customer service can be improved.
+
+Dubai Continental hotel
+*****		$$$$
+All-suites Hotel
+Top Feature:	Food
+Location: Dubai City Center
+Review:	Great service, awesome food.
+
+Meridian Stay hotel
+***		$$$
+Casino Hotel
+Top Feature:	Food
+Location: Pittsburgh Down Town
+Review:	Great for entertainment, in a bit crowded area though.
+
+Holiday Land hotel
+*****		$$$
+Resort Hotel
+Top Feature:	City Views
+Location: 1442 Paris Rd.
+Review:	Great for family holidays!
+
+Aju hotel
+****		$$
+Inn Hotel
+Top Feature:	Transportation
+Location: 1442 Ohio Rd.
+Review:	Great for business travelers.
+
+
+
+What action would you like to perform?
+Please enter the Hotel name to search:
+Please enter the hotel's location':
+Hotel found. Here's the review:
+Great for business travelers.
+
+What action would you like to perform?
+Please enter the Hotel name to search:
+Please enter the hotel's location':
+Hotel not found. Please try again
+
+What action would you like to perform?
+sorted by rating
+
+What action would you like to perform?
+
+Meridian Stay hotel
+***		$$$
+Casino Hotel
+Top Feature:	Food
+Location: Pittsburgh Down Town
+Review:	Great for entertainment, in a bit crowded area though.
+
+Aju hotel
+****		$$
+Inn Hotel
+Top Feature:	Transportation
+Location: 1442 Ohio Rd.
+Review:	Great for business travelers.
+
+Taj hotel
+****		$$
+Resort Hotel
+Top Feature:	Mountain Views
+Location: Bali Junction
+Review:	Very good views but the customer service can be improved.
+
+Dubai Continental hotel
+*****		$$$$
+All-suites Hotel
+Top Feature:	Food
+Location: Dubai City Center
+Review:	Great service, awesome food.
+
+Holiday Land hotel
+*****		$$$
+Resort Hotel
+Top Feature:	City Views
+Location: 1442 Paris Rd.
+Review:	Great for family holidays!
+
+
+
+What action would you like to perform?
+sorted by hotel type
+
+What action would you like to perform?
+
+Dubai Continental hotel
+*****		$$$$
+All-suites Hotel
+Top Feature:	Food
+Location: Dubai City Center
+Review:	Great service, awesome food.
+
+Meridian Stay hotel
+***		$$$
+Casino Hotel
+Top Feature:	Food
+Location: Pittsburgh Down Town
+Review:	Great for entertainment, in a bit crowded area though.
+
+Aju hotel
+****		$$
+Inn Hotel
+Top Feature:	Transportation
+Location: 1442 Ohio Rd.
+Review:	Great for business travelers.
+
+Taj hotel
+****		$$
+Resort Hotel
+Top Feature:	Mountain Views
+Location: Bali Junction
+Review:	Very good views but the customer service can be improved.
+
+Holiday Land hotel
+*****		$$$
+Resort Hotel
+Top Feature:	City Views
+Location: 1442 Paris Rd.
+Review:	Great for family holidays!
+
+
+
+What action would you like to perform?
+Please enter a file name that we will write to:
+Please enter the name of the hotel:
+Please enter a review to save locally:
+
+newReview.txt is written
+
+What action would you like to perform?
+Please enter a file name which we will read from:
+newReview.txt was read
+The contents of the file are:
+Taj
+Nice hotel with friendly staff.
+
+
+
+What action would you like to perform?
+Please enter a file name which we will read from:
+noReview.txt was not found
+
+What action would you like to perform?

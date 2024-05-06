@@ -1,0 +1,77 @@
+A
+Taj
+Very good views but the customer service can be improved.
+$$
+4
+Resort
+Bali Junction
+Mountain Views
+A
+Dubai Continental
+Great service, awesome food.
+$$$$
+5
+All-suites
+Dubai City Center
+Food
+A
+Meridian Stay
+Great for entertainment, in a bit crowded area though.
+$$$
+3
+Casino
+Pittsburgh Down Town
+Food
+A
+Holiday Land
+Great for family holidays!
+$$$
+5
+Resort
+1442 Paris Rd.
+City Views
+A
+Aju
+Great for business travelers.
+$$
+4
+Inn
+1442 Ohio Rd.
+Transportation
+W
+ReviewManagerFile.dat
+X
+ReviewManagerFile.dat
+N
+L
+R
+Taj
+Bali Junction
+A
+Spring Inn
+Not so great, food quality could have been better.
+$
+1
+Inn
+Chicago Ave
+Nothing
+R
+Holiday Land
+1442 Paris Ave
+P
+L
+E
+Inn
+E
+Casino
+D
+Meridian Stay
+Pittsburgh Down Town
+E
+All-suites
+T
+L
+X
+ReviewManagerFile.dat
+L
+Q

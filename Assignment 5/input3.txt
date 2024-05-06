@@ -1,0 +1,14 @@
+A
+CombatHelicopter,MH-34Z,280,70.7,5
+W
+X
+Y
+L
+D
+35
+Q
+?
+C
+D
+3500
+Q

@@ -1,0 +1,47 @@
+Welcome to the aircraft stats simulator!
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter your aircraft stats:
+
+What action would you like to perform?
+Please enter your aircraft stats:
+
+What action would you like to perform?
+Fighter Jet:
+Aircraft name:	Mvl-34
+Current ammo:	85
+Range:	40.7
+Current Attack Power:	0
+Maximum Speed:	68.2%
+, Bomber:	Propeller Type
+Aircraft name:	B-22
+Current ammo:	200
+Range:	86.9
+Current Attack Power:	0
+Bomb Carrying Capacity:	75%
+
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter your aircraft stats:
+
+What action would you like to perform?

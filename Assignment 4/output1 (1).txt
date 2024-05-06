@@ -1,0 +1,29 @@
+Choice		Action
+------		------
+A		Add Department
+D		Display Department
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter the Manager's information:
+Enter manager's first name:	Enter manager's last name:	Enter managers's total years of experience:	Enter since when the manager is managing this department:	
+Please enter the Department's information:
+Enter department's name:	Enter department's division:	Enter department's location:	What action would you like to perform?
+Department Name:	Payments
+Division:	Finance
+Location:	New York
+Manager Information:
+Last Name:	Williams
+First Name:	Monty
+Years of Experience:	10
+Managing Since:	02/03/2017
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Department
+D		Display Department
+Q		Quit
+?		Display Help
+
+What action would you like to perform?

@@ -1,0 +1,40 @@
+Welcome to the aircraft stats simulator!
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter your aircraft stats:
+
+What action would you like to perform?
+Unknown action
+
+
+What action would you like to perform?
+Unknown action
+
+
+What action would you like to perform?
+Unknown action
+
+
+What action would you like to perform?
+Combat Helicopter
+Aircraft name:	MH-34Z
+Current Ammo:	280
+Range:	70.7
+Current Attack Power:	0
+Stealth Index:	7
+
+
+What action would you like to perform?
+Please enter a minimum attack power you want to calculate:
+The number of aircrafts with 35 attack powers or more is: 0
+
+What action would you like to perform?

@@ -1,0 +1,14 @@
+S
+?
+?
+W
+A
+CombatHelicopter,AH-64E,180,5.4,4.8
+L
+D
+200
+C
+L
+D
+200
+Q

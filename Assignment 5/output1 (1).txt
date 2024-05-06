@@ -1,0 +1,74 @@
+Welcome to the aircraft stats simulator!
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Unknown action
+
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Aircraft
+C		Compute Attack Power
+D		Calculate the Number of Aircrafts with Minimum Attack Power
+L		List Aircrafts
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Unknown action
+
+
+What action would you like to perform?
+Please enter your aircraft stats:
+
+What action would you like to perform?
+Combat Helicopter
+Aircraft name:	AH-64E
+Current Ammo:	180
+Range:	5.4
+Current Attack Power:	0
+Stealth Index:	10
+
+
+What action would you like to perform?
+Please enter a minimum attack power you want to calculate:
+The number of aircrafts with 200 attack powers or more is: 0
+
+What action would you like to perform?
+Attack powers computed
+
+What action would you like to perform?
+Combat Helicopter
+Aircraft name:	AH-64E
+Current Ammo:	180
+Range:	5.4
+Current Attack Power:	1902
+Stealth Index:	10
+
+
+What action would you like to perform?
+Please enter a minimum attack power you want to calculate:
+The number of aircrafts with 200 attack powers or more is: 1
+
+What action would you like to perform?
